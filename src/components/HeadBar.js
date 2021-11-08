@@ -13,7 +13,7 @@ export default function HeadBar() {
       <AppBar position="static">
         <Toolbar variant="dense">
           <IconButton edge="start" color="inherit" aria-label="menu" sx={{ mr: 2 }}>
-          {/* //add icon there */}
+          {/* //add icon there  we can add icon here in this section */}
           </IconButton>
           <Typography variant="h6" color="inherit" component="div">
             Covid
