@@ -13,7 +13,7 @@ const Item = styled(Paper)(({ theme }) => ({
 }));
 
 const Weather = ({weatherState}) => {
-    
+    // { this is Weather section for git}
     return (
         <div className="App">
             <Grid container spacing = {0.5}>
