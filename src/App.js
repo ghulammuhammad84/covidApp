@@ -23,7 +23,7 @@ function App() {
           setWeatherState(jsonApi.Global);
           setCountry(jsonApi.Countries);
 
-
+// { this is Appjs section for git}
       }
       FetchApi();
   }, []);
